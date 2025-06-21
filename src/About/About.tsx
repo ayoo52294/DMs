@@ -1,4 +1,4 @@
-import "./About.css";
+import "../About/About.css"; // Adjust the path as necessary
 import GifThumb from '../assets/A&T+Associates.gif'; // Adjust the path as necessary
 
 
